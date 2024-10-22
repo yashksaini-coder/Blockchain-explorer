@@ -96,7 +96,3 @@ This is what the request for a transaction will look like. It’s what the user 
   - Run the miner server using `python -m frontend`
   - Run the clients using `python -m client <PORT-HERE>`
 
-You can visit the site, play with the server, client and more, OR Use postman to Play and Mess with the
-HTTP and JSON responses!
-
-<div align="center">Made by Sunrit Jana with ❤️</div>
